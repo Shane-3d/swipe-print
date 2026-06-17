@@ -1,0 +1,12 @@
+/node_modules
+/.next
+/out
+/build
+.DS_Store
+*.pem
+npm-debug.log*
+.env
+.env*.local
+/data/db.json
+next-env.d.ts.bak
+"New folder"/
